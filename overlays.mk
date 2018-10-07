@@ -33,6 +33,9 @@ PRODUCT_PACKAGES += \
     HideCutout \
     StatusBarStock
 
+# Lawnchair
+PRODUCT_PACKAGE_OVERLAYS += vendor/themes/lawnchair
+
 # Themes
 PRODUCT_PACKAGES += \
     PitchBlackSystemOverlay \
