@@ -27,8 +27,10 @@ PRODUCT_PACKAGES += \
 
 # Google Overlay
 PRODUCT_PACKAGES += \
-    MatchmakerOverlay \
-    PixelLauncherOverlay
+    MatchmakerOverlay
+
+# Lawnchair
+PRODUCT_PACKAGE_OVERLAYS += vendor/themes/lawnchair
 
 # Themes
 PRODUCT_PACKAGES += \
