@@ -21,9 +21,8 @@ PRODUCT_PACKAGES += \
     IconShapeCylinderOverlay \
     IconShapeHexagonOverlay
 
-# Pixel Launcher
-PRODUCT_PACKAGES += \
-    PixelLauncherOverlay
+# Lawnchair
+PRODUCT_PACKAGE_OVERLAYS += vendor/themes/lawnchair
 
 # Themes
 PRODUCT_PACKAGES += \
