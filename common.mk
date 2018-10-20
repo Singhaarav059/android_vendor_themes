@@ -19,7 +19,8 @@ include vendor/themes/fonts.mk
 
 # Set Pixel blue light theme on Gboard
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.com.google.ime.theme_id=5
+    ro.com.google.ime.theme_id=5 \
+    ro.boot.vendor.overlay.theme=com.potato.overlay.lawnconf
 
 # Sounds
 PRODUCT_PROPERTY_OVERRIDES += \

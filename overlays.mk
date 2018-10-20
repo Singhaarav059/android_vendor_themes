@@ -49,3 +49,7 @@ PRODUCT_PACKAGES += \
     FontSurferSourceOverlay \
     FontCircularStdOverlay \
     FontSlateForOnePlusOverlay
+
+# Lawnchair Default Configuration
+PRODUCT_PACKAGES += \
+    LawnConf
