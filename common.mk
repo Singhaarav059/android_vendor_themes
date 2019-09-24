@@ -8,6 +8,9 @@ include vendor/themes/bootanimation.mk
 # Accent
 include vendor/themes/accent.mk
 
+# Prebuilts app
+include vendor/themes/prebuilts.mk
+
 # Fonts
 include vendor/themes/fonts.mk
 
