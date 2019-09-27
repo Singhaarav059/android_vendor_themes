@@ -4,3 +4,7 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceGooglePrebuilt \
     PixelThemes \
     SoundPickerPrebuilt
+
+# Overlays
+PRODUCT_PACKAGES += \
+    NexusLauncherReleaseOverlay
