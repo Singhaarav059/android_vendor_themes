@@ -2,4 +2,5 @@
 PRODUCT_PACKAGES += \
     NexusLauncherRelease \
     SettingsIntelligenceGooglePrebuilt \
-    PixelThemes
+    PixelThemes \
+    SoundPickerPrebuilt
