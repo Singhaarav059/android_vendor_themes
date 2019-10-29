@@ -4,4 +4,7 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceGooglePrebuilt \
     PixelThemes \
     SoundPickerPrebuilt \
-    GalleryGoPrebuilt
+    GalleryGoPrebuilt \
+    MatchmakerPrebuilt \
+    EmergencyInfoGoogleNoUi \
+    SafetyHubPrebuilt
