@@ -6,7 +6,7 @@ DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/common
 include vendor/themes/bootanimation.mk
 
 # Accent
-include vendor/themes/accent.mk
+include vendor/themes/overlays.mk
 
 # Prebuilts app
 include vendor/themes/prebuilts.mk

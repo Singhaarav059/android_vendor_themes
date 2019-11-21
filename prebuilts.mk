@@ -5,9 +5,3 @@ PRODUCT_PACKAGES += \
     PixelThemes \
     SoundPickerPrebuilt \
     GalleryGoPrebuilt
-
-# Overlays
-PRODUCT_PACKAGES += \
-    NexusLauncherReleaseOverlay \
-    PixelSetupWizardOverlay \
-    PixelSetupWizardAodOverlay
