@@ -25,4 +25,15 @@ PRODUCT_PACKAGES += \
     AccentColorFlatPinkOverlay \
     AccentColorCyanOverlay \
     AccentColorBlueGrayOverlay \
-    AccentColorMintOverlay
+    AccentColorMintOverlay \
+    AmberAccent \
+    BlueAccent \
+    BrownAccent \
+    DeepOrangeAccent \
+    DeepPurpleAccent \
+    LimeAccent \
+    PastelDarkBlueAccent \
+    PastelEtonBlueAccent \
+    PastelGreenAccent \
+    PastelRedAccent
+
