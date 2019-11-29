@@ -35,5 +35,11 @@ PRODUCT_PACKAGES += \
     PastelDarkBlueAccent \
     PastelEtonBlueAccent \
     PastelGreenAccent \
-    PastelRedAccent
+    PastelRedAccent \
+
+# Overlays
+PRODUCT_PACKAGES += \
+    NexusLauncherReleaseOverlay \
+    PixelSetupWizardOverlay \
+    PixelSetupWizardAodOverlay
 
