@@ -8,4 +8,5 @@ PRODUCT_PACKAGES += \
     CalculatorGooglePrebuilt \
     Longshot \
     OPScreenRecorder \
-    LawnChair
+    LawnChair \
+    Lawnfeed
