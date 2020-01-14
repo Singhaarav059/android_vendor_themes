@@ -27,3 +27,7 @@ PRODUCT_PACKAGES += \
     PitchBlackSystemUIOverlay \
     SolarizedDarkSystemOverlay \
     SolarizedDarkSystemUIOverlay
+
+# QS Color Overlay
+PRODUCT_PACKAGES += \
+    QsColor
