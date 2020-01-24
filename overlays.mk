@@ -48,7 +48,9 @@ PRODUCT_PACKAGES += \
     FontSonySketchSourceOverlay \
     FontSurferSourceOverlay \
     FontCircularStdOverlay \
-    FontSlateForOnePlusOverlay
+    FontSlateForOnePlusOverlay \
+    FontSamsungOneSourceOverlay \
+    FontFiraSansSourceOverlay
 
 # Lawnchair Default Configuration
 PRODUCT_PACKAGES += \
