@@ -7,5 +7,5 @@ PRODUCT_PACKAGES += \
     CalendarGooglePrebuilt \
     CalculatorGooglePrebuilt \
     Longshot \
-    LawnChair \
+    Lawnchair \
     Lawnfeed
